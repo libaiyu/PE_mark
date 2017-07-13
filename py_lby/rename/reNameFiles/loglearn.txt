@@ -1,0 +1,156 @@
+ 2017-01-15 08:12:30,928 - CRITICAL - Start of program----------------
+ 2017-01-15 08:12:32,698 - ERROR - error test
+ 2017-01-15 08:12:32,698 - ERROR - error test
+ 2017-01-15 08:12:32,708 - ERROR - error testNone
+ 2017-01-15 08:12:32,708 - ERROR - error test
+ 2017-01-15 08:12:32,708 - ERROR - error testNone
+ 2017-01-15 08:12:32,708 - ERROR - error test
+ 2017-01-15 08:12:32,718 - ERROR - error testNone
+ 2017-01-15 08:12:32,718 - ERROR - error test
+ 2017-01-15 08:12:32,718 - ERROR - error testNone
+ 2017-01-15 08:12:32,718 - ERROR - error test
+ 2017-01-15 08:12:32,728 - ERROR - error test学    号
+ 2017-01-15 08:12:32,728 - ERROR - error test
+ 2017-01-15 08:12:32,728 - ERROR - error testNone
+ 2017-01-15 08:12:32,738 - ERROR - error test
+ 2017-01-15 08:12:32,738 - ERROR - error test201510040102
+ 2017-01-15 08:24:30,009 - CRITICAL - Start of program----------------
+ 2017-01-15 08:29:09,620 - ERROR - error test
+ 2017-01-15 08:33:13,470 - ERROR - error test
+ 2017-01-15 08:33:37,790 - ERROR - error testNone
+ 2017-01-15 08:34:00,020 - ERROR - error test
+ 2017-01-15 08:34:10,990 - ERROR - error testNone
+ 2017-01-15 08:34:34,440 - ERROR - error test
+ 2017-01-15 08:34:36,500 - ERROR - error testNone
+ 2017-01-15 08:34:37,760 - ERROR - error test
+ 2017-01-15 08:34:43,520 - ERROR - error testNone
+ 2017-01-15 08:35:51,540 - ERROR - error test
+ 2017-01-15 08:35:51,550 - ERROR - error test学    号
+ 2017-01-15 08:35:51,560 - ERROR - error test
+ 2017-01-15 08:35:51,560 - ERROR - error testNone
+ 2017-01-15 08:35:51,570 - ERROR - error test
+ 2017-01-15 08:35:51,580 - ERROR - error test201510040102
+ 2017-01-15 08:48:30,281 - CRITICAL - Start of program----------------
+ 2017-01-15 08:48:45,311 - ERROR - error test
+ 2017-01-15 08:48:45,321 - ERROR - error test
+ 2017-01-15 08:48:45,321 - ERROR - error testNone
+ 2017-01-15 08:48:45,331 - ERROR - error test
+ 2017-01-15 08:48:45,331 - ERROR - error testNone
+ 2017-01-15 08:48:45,341 - ERROR - error test
+ 2017-01-15 08:48:45,341 - ERROR - error testNone
+ 2017-01-15 08:48:45,351 - ERROR - error test
+ 2017-01-15 08:48:45,361 - ERROR - error testNone
+ 2017-01-15 08:48:45,361 - ERROR - error test
+ 2017-01-15 08:48:45,371 - ERROR - error test学    号
+ 2017-01-15 08:48:45,381 - ERROR - error test
+ 2017-01-15 08:48:45,381 - ERROR - error testNone
+ 2017-01-15 08:48:45,391 - ERROR - error test
+ 2017-01-15 08:48:45,401 - ERROR - error test201510040102
+ 2017-01-15 08:50:03,801 - CRITICAL - Start of program----------------
+ 2017-01-15 08:51:14,771 - CRITICAL - Start of program----------------
+ 2017-01-15 08:54:07,052 - CRITICAL - Start of program----------------
+ 2017-01-15 08:54:09,242 - ERROR - error test
+ 2017-01-15 08:54:09,242 - ERROR - error test
+ 2017-01-15 08:54:09,242 - ERROR - error testNone
+ 2017-01-15 08:54:09,242 - ERROR - error test
+ 2017-01-15 08:54:09,252 - ERROR - error testNone
+ 2017-01-15 08:54:09,252 - ERROR - error test
+ 2017-01-15 08:54:09,252 - ERROR - error testNone
+ 2017-01-15 08:54:09,252 - ERROR - error test
+ 2017-01-15 08:54:09,262 - ERROR - error testNone
+ 2017-01-15 08:54:09,262 - ERROR - error test
+ 2017-01-15 08:54:09,262 - ERROR - error test学    号
+ 2017-01-15 08:54:09,272 - ERROR - error test
+ 2017-01-15 08:54:09,272 - ERROR - error testNone
+ 2017-01-15 08:54:09,272 - ERROR - error test
+ 2017-01-15 08:54:09,272 - ERROR - error test201510040102
+ 2017-01-15 08:55:15,262 - CRITICAL - Start of program----------------
+ 2017-01-15 08:55:17,072 - ERROR - error test
+ 2017-01-15 08:55:17,082 - ERROR - error test
+ 2017-01-15 08:55:17,082 - ERROR - error testNone
+ 2017-01-15 08:55:17,082 - ERROR - error test
+ 2017-01-15 08:55:17,082 - ERROR - error testNone
+ 2017-01-15 08:55:17,092 - ERROR - error test
+ 2017-01-15 08:55:17,092 - ERROR - error testNone
+ 2017-01-15 08:55:17,092 - ERROR - error test
+ 2017-01-15 08:55:17,092 - ERROR - error testNone
+ 2017-01-15 08:55:17,102 - ERROR - error test
+ 2017-01-15 08:55:17,102 - ERROR - error test学    号
+ 2017-01-15 08:55:17,102 - ERROR - error test
+ 2017-01-15 08:55:17,112 - ERROR - error testNone
+ 2017-01-15 08:55:17,112 - ERROR - error test
+ 2017-01-15 08:55:17,112 - ERROR - error test201510040102
+ 2017-01-15 08:56:08,542 - CRITICAL - Start of program----------------
+ 2017-01-15 08:56:10,772 - ERROR - error test
+ 2017-01-15 08:56:10,772 - ERROR - error test
+ 2017-01-15 08:56:10,772 - ERROR - error testNone
+ 2017-01-15 08:56:10,782 - ERROR - error test
+ 2017-01-15 08:56:10,782 - ERROR - error testNone
+ 2017-01-15 08:56:10,782 - ERROR - error test
+ 2017-01-15 08:56:10,782 - ERROR - error testNone
+ 2017-01-15 08:56:10,792 - ERROR - error test
+ 2017-01-15 08:56:10,792 - ERROR - error testNone
+ 2017-01-15 08:56:10,792 - ERROR - error test
+ 2017-01-15 08:56:10,802 - ERROR - error test学    号
+ 2017-01-15 08:56:10,802 - ERROR - error test
+ 2017-01-15 08:56:10,802 - ERROR - error testNone
+ 2017-01-15 08:56:10,802 - ERROR - error test
+ 2017-01-15 08:56:10,812 - ERROR - error test201510040102
+ 2017-01-15 08:57:01,532 - CRITICAL - Start of program----------------
+ 2017-01-15 08:57:03,462 - ERROR - error test
+ 2017-01-15 08:57:03,462 - ERROR - error test
+ 2017-01-15 08:57:03,472 - ERROR - error testNone
+ 2017-01-15 08:57:03,472 - ERROR - error test
+ 2017-01-15 08:57:03,472 - ERROR - error testNone
+ 2017-01-15 08:57:03,482 - ERROR - error test
+ 2017-01-15 08:57:03,482 - ERROR - error testNone
+ 2017-01-15 08:57:03,482 - ERROR - error test
+ 2017-01-15 08:57:03,482 - ERROR - error testNone
+ 2017-01-15 08:57:03,492 - ERROR - error test
+ 2017-01-15 08:57:03,492 - ERROR - error test学    号
+ 2017-01-15 08:57:03,492 - ERROR - error test
+ 2017-01-15 08:57:03,502 - ERROR - error testNone
+ 2017-01-15 08:57:03,502 - ERROR - error test
+ 2017-01-15 08:57:03,502 - ERROR - error test201510040102
+ 2017-01-15 08:57:57,392 - CRITICAL - Start of program----------------
+ 2017-01-15 08:57:59,852 - ERROR - error test
+ 2017-01-15 08:57:59,852 - ERROR - error test
+ 2017-01-15 08:57:59,852 - ERROR - error testNone
+ 2017-01-15 08:57:59,862 - ERROR - error test
+ 2017-01-15 08:57:59,862 - ERROR - error testNone
+ 2017-01-15 08:57:59,862 - ERROR - error test
+ 2017-01-15 08:57:59,862 - ERROR - error testNone
+ 2017-01-15 08:57:59,872 - ERROR - error test
+ 2017-01-15 08:57:59,872 - ERROR - error testNone
+ 2017-01-15 08:57:59,872 - ERROR - error test
+ 2017-01-15 08:57:59,872 - ERROR - error test学    号
+ 2017-01-15 08:57:59,882 - ERROR - error test
+ 2017-01-15 08:57:59,882 - ERROR - error testNone
+ 2017-01-15 08:57:59,882 - ERROR - error test
+ 2017-01-15 08:57:59,892 - ERROR - error test201510040102
+ 2017-01-15 08:58:25,172 - CRITICAL - Start of program----------------
+ 2017-01-15 08:58:26,762 - ERROR - error test
+ 2017-01-15 08:58:26,762 - ERROR - error test
+ 2017-01-15 08:58:26,772 - ERROR - error testNone
+ 2017-01-15 08:58:26,772 - ERROR - error test
+ 2017-01-15 08:58:26,772 - ERROR - error testNone
+ 2017-01-15 08:58:26,782 - ERROR - error test
+ 2017-01-15 08:58:26,782 - ERROR - error testNone
+ 2017-01-15 08:58:26,782 - ERROR - error test
+ 2017-01-15 08:58:26,782 - ERROR - error testNone
+ 2017-01-15 08:58:26,792 - ERROR - error test
+ 2017-01-15 08:58:26,792 - ERROR - error test学    号
+ 2017-01-15 08:58:26,792 - ERROR - error test
+ 2017-01-15 08:58:26,792 - ERROR - error testNone
+ 2017-01-15 08:58:26,802 - ERROR - error test
+ 2017-01-15 08:58:26,802 - ERROR - error test201510040102
+ 2017-01-15 10:39:06,524 - CRITICAL - Start of program----------------
+ 2017-01-15 10:39:09,160 - INFO - studentNo is:201510040102
+ 2017-01-15 10:39:52,979 - CRITICAL - Start of program----------------
+ 2017-01-15 10:39:54,508 - INFO - studentNo is:201510040102
+ 2017-01-15 10:40:12,898 - CRITICAL - Start of program----------------
+ 2017-01-15 10:40:14,595 - INFO - studentNo is:201510040102
+ 2017-01-15 10:43:20,873 - CRITICAL - ----------------Start of program----------------
+ 2017-01-15 10:43:51,759 - CRITICAL - ----------------Start of program----------------
+ 2017-01-15 10:43:53,180 - INFO - studentNo is:201510040102
+ 2017-01-15 10:43:53,181 - INFO -   1510401

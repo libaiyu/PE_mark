@@ -1,0 +1,173 @@
+2017-4-23,14:45:47,
+word:单词
+2017-4-23,14:46:20,
+请输入已查单词及它的意思：
+2017-4-23,14:53:39,
+Emulate：仿真
+2017-4-23,17:41:29,
+hack:砍，劈；出租马车
+2017-4-23,17:45:3,
+hacksaw:钢锯
+
+2017-4-23,17:46:6,
+intact:完整的；原封不动的；未受损伤的
+
+2017-4-23,17:48:21,
+torrent:奔流；倾注；迸发；连续不断
+
+2017-4-24,21:12:36,
+epoch:新时代
+
+2017-4-24,21:16:5,
+epoch:新纪元；新时代；时间上的一点
+
+2017-4-25,8:22:30,
+divisible:You only want to compute the squares of the numbers that are divisible by 2.
+
+2017-4-25,8:36:59,
+map(int,input('please input 4 numbers(1-13):').split())---map(func, *iterables) --> map object
+
+2017-4-25,8:36:59,
+ |  Make an iterator that computes the function using arguments from
+
+2017-4-25,8:37:57,
+Make an iterator that computes the function using arguments from each of the iterables.  Stops when the shortest iterable is exhausted.
+
+2017-4-25,8:49:54,
+signature:信号；签名；署名
+
+2017-4-25,15:49:0,
+arctic:北极的　　antarctic:南极的
+
+2017-4-25,15:50:40,
+differential:微分的　　divisiable:可整除的
+
+2017-4-26,6:44:28,
+>>> a = range(10)>>> [a*2 if a>2 else a*5 for a in a]   [0, 5, 10, 6, 8, 10, 12, 14, 16, 18]
+
+2017-4-26,7:19:13,
+lambda 很奇怪，>>> lambda x:x-3,range(1,100,5)\n　(<function <lambda> at 0x020D8BB8>, range(1, 100, 5)) \n >>> x\n NameError: name 'x' is not defined \n >>> y = lambda x:x-3,range(1,100,5) \n >>> y \n (<function <lambda> at 0x02A8D420>, range(1, 100, 5)) \n assert 不太懂 
+
+2017-4-26,7:27:46,
+Item 7: Use List Comprehensions Instead of map and filter
+
+2017-4-26,7:29:31,
+List comprehensions are clearer than the map and filter built-in functions because they donot require extra lambda expressions. 
+
+2017-4-26,7:30:35,
+List comprehensions allow you to easily skip items from the input list, a behaviour map doesnot support without help from filter.
+
+2017-4-26,7:31:57,
+Dictionaries and sets also support comprehension expressions.
+
+2017-4-28,14:52:8,
+溱：qin
+
+2017-4-28,20:21:39,
+Gutenberg  n. 古腾堡（人名，德国活版印刷发明人）
+
+2017-4-29,15:46:48,
+prune : vt. 修剪；删除；剪去
+
+2017-4-29,15:51:20,
+CVS : 并发版本系统(Concurrent Versions System)
+
+2017-4-29,16:3:23,
+resumption : the act of starting an activity again after stopping or being interrupted  重新开始
+
+2017-4-29,17:15:0,
+pickle : vt. 泡；腌制  shelve :  vt. 将（书等）放置在架子上；搁置，将某事放到一旁不予考虑；将…搁在一边；装搁架于；罢免  dump : vt. 倾倒；倾卸；丢下，卸下；摆脱，扔弃；倾销
+
+2017-4-29,17:18:43,
+mimic  :  vt. 模仿，摹拟  ...needed to mimic the behavior of _pickle.Pickler.dump().
+
+2017-4-29,17:43:46,
+警告：如果你导入一个已经被导入的模块，python什么都不做。它不会重新读取文件，即使文件已经修改。　　如果你想要重载一个模块，可以使用内置函数reload，但它也可能会有棘手的问题。所以最安全的办法是重启解释器，并再次导入模块。
+
+2017-4-29,18:23:34,
+'AT-trib-ute'发音的重音在第一个音节，与作为动词的'a-TTRIB-ute'不同。
+
+2017-4-30,8:18:20,
+hasattr : hasattr( p, 'x')
+
+2017-4-30,10:44:51,
+assert : assert statement 一种检查某个条件，如果检查失败则抛出异常的语句。
+
+2017-5-1,6:37:28,
+如果很谨慎小心地设计接口，则可以在不修改接口的情况下修改实现，这样程序的其他部分就不需要修改。
+
+2017-5-1,6:40:54,
+如果不清楚一个对象是否拥有某个属性，可以使用内置函数hasattr。另一种访问一个对象的属性的方法是使用内置函数vars，它接受一个对象，并返回一个将属性名称（字符串形式）映射到属性值的字典对象。
+
+2017-5-1,6:48:47,
+polymorphic : 多态
+
+2017-5-1,6:50:59,
+kangaroo : 袋鼠
+
+2017-5-1,12:50:54,
+spade : 铲子　　club : 梅花　　veneer : 饰面
+
+2017-5-1,16:46:31,
+UML : unified modeling language 统一建模语言
+
+2017-5-1,17:4:34,
+NAN : Not A Number
+
+2017-5-3,6:16:23,
+回溯　：　hui su 
+
+2017-5-3,6:33:24,
+inundate : 淹没；浸水；（洪水般的）扑来
+
+2017-5-3,6:36:12,
+undate : 波浪似的；波状的　undated : 无限期的；未标日期的
+
+2017-5-3,6:39:3,
+undated cheque : 未注明日期的支票  undated check  : 未注明日期的支票  undated letter ：　无日期的信
+
+2017-5-3,6:53:49,
+exercise : exe - 执行 ciseaux - 芭蕾舞中的跳跃
+
+2017-5-3,6:56:17,
+execute : 执行　CEO : chief executive officer
+
+2017-5-3,7:0:33,
+mental model : 思维模型；心理模型；心智模型
+
+2017-5-3,7:5:29,
+discrepance : 不一致；分歧；偏差
+
+2017-5-3,7:7:49,
+I have got a big hairy expression : 我有一个巨大而复杂的表达式。
+
+2017-5-3,7:12:31,
+explicit : 明确的；清楚的，直率的；详述的
+
+2017-5-5,22:23:24,
+ Today, during the way to Fuzhou I found complex calulation can be done by the app(mathstudio) in android phone. When I got home, read the book I found that complex claculation can also be done by Qpython3 in android phone.
+
+2017-5-6,10:45:43,
+parallel : 平行线，对比；平行的，类似的，相同的；使　与　平行　　parabola : 抛物线　　allel : 等位基因
+
+2017-5-7,15:53:2,
+今天尝试登陆FACEBOOK。忘记了密码，所以就利用邮箱修改密码。但是还是没有能够登陆FACEBOOK。它为了确保登陆的是我本人，要求我当面或者打电话向三个朋友发出请求。当面是不可能的了。打电话是国际长途，有这个必要吗？算了吧。
+
+2017-5-7,16:55:33,
+Matlab中i最好不用作电流，特别是当有虚数运算时，建议把i改成I即可。
+
+2017-5-8,9:27:28,
+import os 没有错。os.chdir('/storage/emulated/0/qpython')才是正确的文件路径。以前写的'./storage/emulated/0/qpython'前面的.导致不能正常工作。后来改为'/storage/emulated/0/qpython/'最后的‘/’又导致了错误。
+
+2017-5-8,9:27:28,
+
+
+2017-5-8,9:29:17,
+今天又尝试了一下。才知道其实只有'/storage/emulated/0/qpython')才是正确的现在我手机上有了一个可以写日记的程序了。主要是它能自动加入时间戳。
+
+2017-5-8,9:32:27,
+并不需要将TXT文件改为PY文件。
+
+2017-5-8,11:58:36,
+Matlab中 用来输出屏幕上的提示信息的是　fprintf( '提示信息') 。
+

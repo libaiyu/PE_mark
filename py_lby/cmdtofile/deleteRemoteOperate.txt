@@ -1,0 +1,7 @@
+所有的操作就是
+1. git rebase -i HEAD~4 回退5个（还是4个， 忘了）提交
+2. 把远程操作清除掉， 用的是git reset --hard 上一个提交
+3. git add . 和git commit --amend（这个意思是补充commit）
+4. git rebase --continue
+5. git push -f origin master 强制推代码到远程（一般不推荐强制推代码，这样会覆盖远程代码，但是这个是特殊情况。） 这步我没有做，需要你自己做
+不能运行， 因为是python2

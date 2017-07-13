@@ -1,0 +1,91 @@
+ 2017-01-15 08:01:45,597 - DEBUG - Start of program
+ 2017-01-15 08:01:46,727 - WARNING - fileName is:电路与电子技术（核工）-1510401.xlsx
+ 2017-01-15 08:01:47,297 - INFO - studentNo is:201510040102
+ 2017-01-15 08:01:47,397 - DEBUG - row is:1
+ 2017-01-15 08:01:47,397 - DEBUG - 
+ 2017-01-15 08:01:47,397 - DEBUG - row is:2
+ 2017-01-15 08:01:47,397 - DEBUG - None
+ 2017-01-15 08:01:47,407 - DEBUG - row is:3
+ 2017-01-15 08:01:47,407 - DEBUG - None
+ 2017-01-15 08:01:47,407 - DEBUG - row is:4
+ 2017-01-15 08:01:47,407 - DEBUG - None
+ 2017-01-15 08:01:47,417 - DEBUG - row is:5
+ 2017-01-15 08:01:47,417 - DEBUG - None
+ 2017-01-15 08:01:47,417 - DEBUG - row is:6
+ 2017-01-15 08:01:47,417 - DEBUG - 学    号
+ 2017-01-15 08:01:47,427 - DEBUG - row is:7
+ 2017-01-15 08:01:47,427 - DEBUG - None
+ 2017-01-15 08:01:47,427 - DEBUG - row is:8
+ 2017-01-15 08:01:47,437 - DEBUG - 201510040102
+ 2017-01-15 08:06:46,538 - DEBUG - Start of program
+ 2017-01-15 08:06:47,838 - WARNING - fileName is:电路与电子技术（核工）-1510401.xlsx
+ 2017-01-15 08:06:49,908 - INFO - studentNo is:201510040102
+ 2017-01-15 08:06:49,998 - DEBUG - row is:1
+ 2017-01-15 08:06:50,008 - ERROR - error test
+ 2017-01-15 08:06:50,008 - ERROR - error test
+ 2017-01-15 08:06:50,008 - DEBUG - row is:2
+ 2017-01-15 08:06:50,008 - ERROR - error testNone
+ 2017-01-15 08:06:50,008 - ERROR - error test
+ 2017-01-15 08:06:50,008 - DEBUG - row is:3
+ 2017-01-15 08:06:50,018 - ERROR - error testNone
+ 2017-01-15 08:06:50,018 - ERROR - error test
+ 2017-01-15 08:06:50,018 - DEBUG - row is:4
+ 2017-01-15 08:06:50,018 - ERROR - error testNone
+ 2017-01-15 08:06:50,018 - ERROR - error test
+ 2017-01-15 08:06:50,018 - DEBUG - row is:5
+ 2017-01-15 08:06:50,028 - ERROR - error testNone
+ 2017-01-15 08:06:50,028 - ERROR - error test
+ 2017-01-15 08:06:50,028 - DEBUG - row is:6
+ 2017-01-15 08:06:50,028 - ERROR - error test学    号
+ 2017-01-15 08:06:50,038 - ERROR - error test
+ 2017-01-15 08:06:50,038 - DEBUG - row is:7
+ 2017-01-15 08:06:50,038 - ERROR - error testNone
+ 2017-01-15 08:06:50,038 - ERROR - error test
+ 2017-01-15 08:06:50,038 - DEBUG - row is:8
+ 2017-01-15 08:06:50,048 - ERROR - error test201510040102
+ 2017-01-15 08:08:20,758 - ERROR - error test
+ 2017-01-15 08:08:20,758 - ERROR - error test
+ 2017-01-15 08:08:20,768 - ERROR - error testNone
+ 2017-01-15 08:08:20,768 - ERROR - error test
+ 2017-01-15 08:08:20,768 - ERROR - error testNone
+ 2017-01-15 08:08:20,768 - ERROR - error test
+ 2017-01-15 08:08:20,778 - ERROR - error testNone
+ 2017-01-15 08:08:20,778 - ERROR - error test
+ 2017-01-15 08:08:20,778 - ERROR - error testNone
+ 2017-01-15 08:08:20,778 - ERROR - error test
+ 2017-01-15 08:08:20,788 - ERROR - error test学    号
+ 2017-01-15 08:08:20,788 - ERROR - error test
+ 2017-01-15 08:08:20,788 - ERROR - error testNone
+ 2017-01-15 08:08:20,798 - ERROR - error test
+ 2017-01-15 08:08:20,798 - ERROR - error test201510040102
+ 2017-01-15 08:09:00,558 - ERROR - error test
+ 2017-01-15 08:09:00,568 - ERROR - error test
+ 2017-01-15 08:09:00,568 - ERROR - error testNone
+ 2017-01-15 08:09:00,568 - ERROR - error test
+ 2017-01-15 08:09:00,568 - ERROR - error testNone
+ 2017-01-15 08:09:00,578 - ERROR - error test
+ 2017-01-15 08:09:00,578 - ERROR - error testNone
+ 2017-01-15 08:09:00,578 - ERROR - error test
+ 2017-01-15 08:09:00,588 - ERROR - error testNone
+ 2017-01-15 08:09:00,588 - ERROR - error test
+ 2017-01-15 08:09:00,588 - ERROR - error test学    号
+ 2017-01-15 08:09:00,588 - ERROR - error test
+ 2017-01-15 08:09:00,598 - ERROR - error testNone
+ 2017-01-15 08:09:00,598 - ERROR - error test
+ 2017-01-15 08:09:00,598 - ERROR - error test201510040102
+ 2017-01-15 08:11:06,508 - CRITICAL - Start of program----------------
+ 2017-01-15 08:11:14,238 - ERROR - error test
+ 2017-01-15 08:11:14,238 - ERROR - error test
+ 2017-01-15 08:11:14,248 - ERROR - error testNone
+ 2017-01-15 08:11:14,248 - ERROR - error test
+ 2017-01-15 08:11:14,248 - ERROR - error testNone
+ 2017-01-15 08:11:14,258 - ERROR - error test
+ 2017-01-15 08:11:14,258 - ERROR - error testNone
+ 2017-01-15 08:11:14,258 - ERROR - error test
+ 2017-01-15 08:11:14,268 - ERROR - error testNone
+ 2017-01-15 08:11:14,268 - ERROR - error test
+ 2017-01-15 08:11:14,278 - ERROR - error test学    号
+ 2017-01-15 08:11:14,278 - ERROR - error test
+ 2017-01-15 08:11:14,288 - ERROR - error testNone
+ 2017-01-15 08:11:14,288 - ERROR - error test
+ 2017-01-15 08:11:14,298 - ERROR - error test201510040102
