@@ -6,11 +6,12 @@ to the entry, then return.
 this program will write the words and its meaning to the bydict.txt.  2017-4-23
 '''
 
+
 import datetime
-import os
+
 
 def word_backup():
-
+    '''   '''
     # get the word and meaning
     st = input("请输入单词和解释：")
     # write the time, word and meaning into the word_backup.txt. 
@@ -24,12 +25,10 @@ def word_backup():
 
 
 if __name__ == '__main__':
-    '''
-'''
+    '''  '''
     while True:
         word_backup()
         con = input('yes or no? n for quit:')
         if con == 'n':
             break
     print('End')
-
